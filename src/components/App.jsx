@@ -3,7 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
-import SimpleAlerts from "./Alert"
+// import SimpleAlerts from "./Alert"
 function App() {
   const [notes, setNotes] = useState([]);
 
